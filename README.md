@@ -58,7 +58,7 @@ Set the following environment variables:
 Example for bash and client translations:
 
 ```bash
-discord-translation-extractor > EXTRACTOR_CTX=client EXTRACTOR_MATCHING_ISKEY=true nodejs ./extractor.js
+EXTRACTOR_CTX=client EXTRACTOR_MATCHING_ISKEY=true nodejs ./extractor.js
 ```
 
 ### 3. The output
